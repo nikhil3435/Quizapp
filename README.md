@@ -1,1 +1,1 @@
-# Quizapp
+# Graphics
